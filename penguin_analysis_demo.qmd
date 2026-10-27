@@ -37,3 +37,5 @@ ggplot(penguins, aes(x = bill_length_mm,
   ) +
   theme_minimal()
 ```
+
+This analysis compares bill length and bill depth across three penguin species.
